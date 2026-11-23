@@ -34,7 +34,7 @@ PRECIOS_DEFECTO = {
     "Lavado Premium + Encerado": 350,
     "Lavado de Motor": 180,
     "Aspirado Interior": 80,
-    "Pulido de Faros": 250,
+    "Pulido de Faros": 750,
 }
 EMPLEADOS_DEFECTO = {
     "Juan Pérez": {"telefono": "773-123-4567", "puesto": "Lavador", "comision_tipo": "Fija", "comision_valor": 20, "activo": True},
