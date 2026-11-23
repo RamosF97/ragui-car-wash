@@ -31,7 +31,7 @@ PRECIOS_DEFECTO = {
     "Lavado Básico - Camioneta / SUV": 150,
     "Lavado Completo - Auto": 220,
     "Lavado Completo - Camioneta / SUV": 280,
-    "Lavado Premium + Encerado": 350,
+    "Lavado Premium + Baño de cera": 350,
     "Lavado de Motor": 180,
     "Aspirado Interior": 80,
     "Pulido de Faros": 750,
